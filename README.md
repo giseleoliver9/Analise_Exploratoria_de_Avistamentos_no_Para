@@ -1,4 +1,4 @@
-# Análise de Avistamentos de OVNIs na Amazônia
+# Análise de Avistamentos de OVNIs no Pará
 
 Este projeto realiza uma **análise exploratória** dos avistamentos de objetos voadores não identificados (OVNIs) na região amazônica, com base em dados públicos. Através de gráficos, mapas e clusterização, busquei identificar **padrões temporais, geográficos e descritivos** desses fenômenos.
 
