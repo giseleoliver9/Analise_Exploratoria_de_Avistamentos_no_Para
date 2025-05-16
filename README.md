@@ -71,7 +71,7 @@ Os dados reforçam a relevância da Amazônia como cenário de manifestações a
 ## 🔗 Acesse o Projeto
 
 - 📒 **Notebook**  
-  [Clique aqui para visualizar o código]([https://](https://github.com/giseleoliver9/Analise_Exploratoria_de_Avistamentos_no_Para/blob/main/Analise_Exploratoria_Avistamentos_de_OVNIs_no_Para.ipynb))
+  [Clique aqui para visualizar o código]([https://github.com/giseleoliver9/Analise_Exploratoria_de_Avistamentos_no_Para/blob/main/Analise_Exploratoria_Avistamentos_de_OVNIs_no_Para.ipynb))
 
 - 🎥 **Apresentação**  
-  [Clique aqui para ver a apresentação]([https://](https://github.com/giseleoliver9/Analise_Exploratoria_de_Avistamentos_no_Para/blob/main/Analise%20Exploratoria%20de%20Avistamentos%20de%20OVNIS%20no%20Para%20-%20Apresenta%C3%A7%C3%A3o.pdf))
+  [Clique aqui para ver a apresentação](https://github.com/giseleoliver9/Analise_Exploratoria_de_Avistamentos_no_Para/blob/main/Analise%20Exploratoria%20de%20Avistamentos%20de%20OVNIS%20no%20Para%20-%20Apresenta%C3%A7%C3%A3o.pdf))
