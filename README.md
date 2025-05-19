@@ -80,5 +80,5 @@ Os dados reforçam a relevância da Amazônia como cenário de manifestações a
 
 
 ## 🎙️ Extras
-Podcast:[OVNIs na Amazônia: o que os dados revelam?](https://open.spotify.com/episode/5ZFC4y3TVh4iizhqirtfXS?si=pKQom_k3Qi-Rkvme70fhMw)
+Podcast: [OVNIs na Amazônia: o que os dados revelam?](https://open.spotify.com/episode/5ZFC4y3TVh4iizhqirtfXS?si=pKQom_k3Qi-Rkvme70fhMw)
 Episódio do InsightCast em que compartilho minha análise de dados sobre avistamentos de OVNIs na região amazônica.
