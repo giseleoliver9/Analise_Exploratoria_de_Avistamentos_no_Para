@@ -75,3 +75,10 @@ Os dados reforçam a relevância da Amazônia como cenário de manifestações a
 
 - 🎥 **Apresentação**  
   [Clique aqui para ver a apresentação](https://github.com/giseleoliver9/Analise_Exploratoria_de_Avistamentos_no_Para/blob/main/Analise%20Exploratoria%20de%20Avistamentos%20de%20OVNIS%20no%20Para%20-%20Apresenta%C3%A7%C3%A3o.pdf)
+
+---
+
+
+🎙️ Extras
+Podcast: OVNIs na Amazônia: o que os dados revelam?
+Episódio do InsightCast em que compartilho minha análise de dados sobre avistamentos de OVNIs na região amazônica.
